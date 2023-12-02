@@ -1,5 +1,5 @@
 # Mini_Project
 
 **Admin Login**<br>
-Username: admin , 
+Username: admin<br>
 Password: admin
